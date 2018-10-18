@@ -15,5 +15,5 @@ $(document).ready(function()   //Use ready() to make a function available after 
     }
   }
   //Set Time in Millisecond/Set Time in Millisecond
-  setTimeout(loading, 10000);
+  setTimeout(loading, 12000);
 });
